@@ -1,7 +1,7 @@
 DOMAIN,identity.apple.com
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,push.apple.com
-DOMAIN-KEYWORD,apple.com.edgekey.net
+DOMAIN-SUFFIX,apple.com.edgekey.net
 IP-CIDR,17.188.128.0/18
 IP-CIDR,17.188.20.0/23
 IP-CIDR,17.249.0.0/16
